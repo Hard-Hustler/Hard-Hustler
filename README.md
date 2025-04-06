@@ -12,7 +12,9 @@
 - 📫 How to reach me **hardikamarwani@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gC3wRSWJ_pnKshyvwjgSuV76vWl0zHzh/view?usp=sharing](https://drive.google.com/file/d/1gC3wRSWJ_pnKshyvwjgSuV76vWl0zHzh/view?usp=sharing)
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1GK7KSkRUNOZIQuDTirVrFpU0uZk_A3GL/view?usp=sharing)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardikamarwani)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hardikamarwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hardikamarwani/" height="30" width="40" /></a>
