@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hard-hustler" alt="hard-hustler" /></a> </p>
 
-- 🔭 I’m currently working on [ODYSSEY Website](https://github.com/Hard-Hustler/Odyssey)
+- 🔭 I’m currently working on [Behavioral Cloning for Self-Driving Cars using YOLOv11](https://github.com/Hard-Hustler/Behavioral-Cloning)
 
-- 🌱 I’m currently learning **NodeJS, Django, Flask**
+- 🌱 I’m currently learning **Microsoft Fabric, Django, Flask**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON, ARDUINO**
+- 💬 Ask me about **ADVANCED SQL, C++, JAVASCRIPT, PYTHON, ARDUINO**
 
 - 📫 How to reach me **hardikamarwani@gmail.com**
 
