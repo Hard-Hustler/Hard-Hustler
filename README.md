@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hardik Amarwani</h1>
-<h3 align="center">A passionate full-stack developer and AI/ ML Enthusiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hard-hustler" alt="hard-hustler" /></a> </p>
 
 
-<!-- Hi, I'm Hardik Amarwani - Enhanced GitHub Profile README -->
+
+<!-- Hi, I'm Hardik Amarwani -  GitHub Profile README -->
 
 <p align="center">
   <img src="https://github.com/Hard-Hustler.png" alt="avatar" width="120" style="border-radius:50%;">
