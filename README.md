@@ -4,107 +4,114 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hard-hustler" alt="hard-hustler" /></a> </p>
 
 
-<!-- Hi, I'm Hardik Amarwani README replica -->
+<!-- Hi, I'm Hardik Amarwani - Enhanced GitHub Profile README -->
 
-<img src="https://github.com/Hard-Hustler.png" alt="avatar" width="80" />
+<p align="center">
+  <img src="https://github.com/Hard-Hustler.png" alt="avatar" width="120" style="border-radius:50%;">
+</p>
 
-# 👋 Hi, I'm [Hardik Amarwani](https://www.linkedin.com/in/hardikamarwani) ![Profile views](https://komarev.com/ghpvc/?username=Hard-Hustler&label=Profile%20views)
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/hardikamarwani">Hardik Amarwani</a></h1>
 
-- 📍 Based in New York City, NY  
-- ✉️ Reach me at: ha3290@nyu.edu  
-- 🎓 M.S. in Computer Engineering, New York University (2025-2027)  
-- 🎓 B.Tech. in Electrical Engineering, Maulana Azad National Institute of Technology (2020-2024
+<p align="center">
+  <b>🚀 Data Engineer | 🤖 AI Researcher | 🧠 Graduate Student @ NYU</b><br>
+  <i>Exploring the intersection of Machine Learning, Cloud Systems, and Generative AI.</i>
+</p>
 
----
-
-## ‍About Me
-
-✨ Data Engineer & AI Researcher passionate about building scalable, data-driven systems  
-✨ Exploring intersections of Generative AI, Cloud Engineering, and Intelligent Automation  
-✨ Experienced in ML pipelines, LLM-based applications, and real-time analytics  
-✨ Advocate of open-source collaboration and continuous experimentation  
-
----
-
-## Experience
-
-### Graduate Research Assistant — ECJS Lab, New York University (Sep 2025 – Present)
-- Analyzed VPP datasets from CAISO, PJM & ERCOT markets, enhancing outage duration prediction by 18%.  
-- Led Prophet-based forecasting for energy gaps, improving accuracy by 12% across 3 markets.  
-- Built Tableau dashboards powering 3 policy recommendations impacting ~5 GW of distributed energy.  
-
-### Data Engineer II — Accordion, Hyderabad (May 2024 – Jun 2025)
-- Engineered churn propensity model forecasting high-risk users with 82% precision, boosting ROI by 15%.  
-- Automated Databricks ETL pipelines, cutting latency by 40% and saving 20+ hours weekly.  
-- Created Power BI dashboards detecting 200+ anomalies monthly, accelerating analysis by 30%.  
-
-### Software & Data Intern — Merilytics, Hyderabad (Jan 2024 – Apr 2024)
-- Built Flask REST APIs serving 5K+ daily investor reports with 40% lower latency.  
-- Migrated APIs to OAuth2, strengthening backend security by 60%.  
-- Automated CDM pipelines on Azure DevOps, cutting manual deployment errors by 70%.  
-
-### Machine Learning Research Intern — Spartificial Innovations, Bangalore (May 2023 – Aug 2023)
-- Deployed ML models for real-time traffic congestion prediction on AWS EC2 & Docker.  
-- Implemented voxel-based object detection (PointPillars, CenterPoint), boosting accuracy by 18%.  
-- Validated multi-UAV systems with 92% obstacle avoidance success rate.  
-
-### Undergraduate Research Assistant — ISRO-funded Rolta Incubation Lab (Jan 2022 – Mar 2023)
-- Applied K-Means clustering and cooperative game theory to design multi-UAV coordination pipelines,  
-  improving coverage efficiency by 24% and reducing gaps by 2%.  
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Hard-Hustler&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Hard-Hustler&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="mailto:ha3290@nyu.edu">
+    <img src="https://img.shields.io/badge/Email-ha3290@nyu.edu-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://hardik-amarwani-portfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=react" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hardikamarwani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## Featured Projects
+## 🧭 About Me
 
-- **[SoftCLIP – Contrastive Text Encoder for Robust Semantic Alignment](https://github.com/Hard-Hustler/SoftCLIP-for-Text)**  
-  Text-only adaptation of CLIP with soft similarity targets, achieving +12% lift in semantic retrieval accuracy.  
-
-- **[Adaptive Lane Width Optimization using RL](https://github.com/Hard-Hustler/Deep-RL-Traffic-Congestion-Detection)**  
-  Reinforcement learning agent optimizing lane widths via LSTM-based traffic models, reducing congestion by 20%.  
-
-- **[Smart Staffing Assistant – GenAI Talent Matcher](https://github.com/Hard-Hustler/Smart-Staffing-Assistant)**  
-  A multi-agent LangChain + FAISS system automates résumé–JD matching with 87% accuracy.  
+💡 Passionate about building scalable, data-driven systems and intelligent automation.  
+⚙️ Experienced in ML pipelines, cloud-based ETL workflows, and full-stack analytics.  
+🧠 Currently researching distributed forecasting and virtual power plant optimization at NYU.  
+🌱 Exploring Reinforcement Learning and GenAI applications for traffic and staffing intelligence.  
 
 ---
 
-## Technical Skills
+## 🧩 Technical Skills
 
-### Languages
-C/C++ · Python · SQL · JavaScript · TypeScript · HTML · LaTeX  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,flask,django,react,html,css,aws,azure,tensorflow,pytorch,git,github,postman,tableau,powerbi,vscode,linux" /><br>
+</p>
 
-### Frameworks
-Flask · Django · D3.js · Apache Spark · TensorFlow · OpenCV · LangChain · Hugging Face · Scikit-learn  
-
-### Tools
-Databricks · Azure DevOps · Snowflake · Pigment · Power BI · Tableau · Git · AWS (EC2, S3, Lambda) · JIRA  
-
-### Analytics & Cloud
-Data Warehousing · ETL · KPI Dashboarding · Big Data · Load Balancing · A/B Testing · Sentiment Analysis  
+#### 🧠 Core Competencies:
+- **Programming:** Python · C/C++ · JavaScript · TypeScript · SQL · LaTeX  
+- **Frameworks:** Flask · Django · TensorFlow · LangChain · Hugging Face · Scikit-learn  
+- **Data & Cloud Tools:** Databricks · Azure DevOps · Snowflake · Power BI · Tableau · AWS (EC2, S3, Lambda)  
+- **Domains:** Machine Learning · Generative AI · Cloud Data Engineering · Big Data Analytics  
 
 ---
 
-## Honors & Achievements
+## 🧱 Experience Snapshot
 
-🏆 Google HashCode Finalist  
-🏆 Accordion GenAI Hackathon Winner  
-🏆 J.P. Morgan CFG Hackathon Runner-up  
-📜 Microsoft PL-300 Certified  
-
----
-
-## GitHub Analytics
-
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Hard-Hustler&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Hustler&layout=compact)
+| Role | Organization | Duration | Key Impact |
+|------|---------------|-----------|-------------|
+| 🎓 Graduate Research Assistant | NYU ECJS Lab | Sep 2025 – Present | Boosted power outage prediction accuracy by **18%** across energy datasets |
+| 💼 Data Engineer II | Accordion, Hyderabad | May 2024 – Jun 2025 | Automated Databricks ETL pipelines, cutting latency **40%** |
+| 🧩 Software & Data Intern | Merilytics | Jan 2024 – Apr 2024 | Built Flask APIs for investor reporting, reducing latency **40%** |
+| 🤖 ML Research Intern | Spartificial Innovations | May 2023 – Aug 2023 | Built 3D LiDAR-based congestion detection with **18%** accuracy gain |
+| 🛰️ Research Assistant | ISRO-Funded Rolta Lab | Jan 2022 – Mar 2023 | Optimized UAV coordination improving response by **24%** |
 
 ---
 
-## Connect with Me
+## 🚀 Highlighted Projects
 
-- 🌐 Portfolio: [hardik-amarwani-portfolio.lovable.app](https://hardik-amarwani-portfolio.lovable.app/)  
-- 💼 LinkedIn: [linkedin.com/in/hardikamarwani](https://www.linkedin.com/in/hardikamarwani)  
-- 🧠 GitHub: [github.com/Hard-Hustler](https://github.com/Hard-Hustler)  
-- ✉️ Email: ha3290@nyu.edu  
+- 🧬 **[SoftCLIP – Contrastive Text Encoder](https://github.com/Hard-Hustler/SoftCLIP-for-Text)**  
+  Text-only contrastive framework for semantic retrieval, +12% accuracy improvement.  
+
+- 🛣️ **[Adaptive Lane Width Optimization (RL)](https://github.com/Hard-Hustler/Deep-RL-Traffic-Congestion-Detection)**  
+  RL + LSTM-based congestion detection system improving throughput by 12%.  
+
+- 🧑‍💼 **[Smart Staffing Assistant](https://github.com/Hard-Hustler/Smart-Staffing-Assistant)**  
+  LangChain + FAISS multi-agent recruiter achieving 87% JD–résumé match accuracy.  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Google HashCode Finalist**  
+- 🥈 **Accordion GenAI Hackathon Winner**  
+- 🥉 **J.P. Morgan CFG Hackathon Runner-up**  
+- 🎓 **Microsoft PL-300 Certified (Power BI Data Analyst)**  
+
+---
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hard-Hustler&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hard-Hustler&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Hustler&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:ha3290@nyu.edu"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/hardikamarwani"><img src="https://img.shields.io/badge/LinkedIn-Hardik%20Amarwani-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://hardik-amarwani-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=react" /></a>
+  <a href="https://github.com/Hard-Hustler"><img src="https://img.shields.io/badge/GitHub-Hard--Hustler-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
