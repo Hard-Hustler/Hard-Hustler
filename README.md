@@ -3,30 +3,108 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hard-hustler" alt="hard-hustler" /></a> </p>
 
-- 🔭 I’m currently working on [Behavioral Cloning for Self-Driving Cars using YOLOv11](https://github.com/Hard-Hustler/Behavioral-Cloning)
 
-- 🌱 I’m currently learning **Microsoft Fabric, Django, Flask**
+<!-- Hi, I'm Hardik Amarwani README replica -->
 
-- 💬 Ask me about **ADVANCED SQL, C++, JAVASCRIPT, PYTHON, ARDUINO**
+<img src="https://github.com/Hard-Hustler.png" alt="avatar" width="80" />
 
-- 📫 How to reach me **hardikamarwani@gmail.com**
+# 👋 Hi, I'm [Hardik Amarwani](https://www.linkedin.com/in/hardikamarwani) ![Profile views](https://komarev.com/ghpvc/?username=Hard-Hustler&label=Profile%20views)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gC3wRSWJ_pnKshyvwjgSuV76vWl0zHzh/view?usp=sharing](https://drive.google.com/file/d/1gC3wRSWJ_pnKshyvwjgSuV76vWl0zHzh/view?usp=sharing)
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1GK7KSkRUNOZIQuDTirVrFpU0uZk_A3GL/view?usp=sharing)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardikamarwani)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hardikamarwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hardikamarwani/" height="30" width="40" /></a>
-<a href="https://instagram.com/hardik_amarwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik_amarwani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/hard_hustler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hard_hustler" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/hard_hustler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/hard_hustler" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/hardikamarwani/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hardikamarwani/practice" height="30" width="40" /></a>
-</p>
+- 📍 Based in New York City, NY  
+- ✉️ Reach me at: ha3290@nyu.edu  
+- 🎓 M.S. in Computer Engineering, New York University (2025–2027)  
+- 🎓 B.Tech. in Electrical Engineering, Maulana Azad National Institute of Technology (CGPA: 8.18/10)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hard-hustler&show_icons=true&locale=en&layout=compact" alt="hard-hustler" /></p>
+## ‍About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hard-hustler&show_icons=true&locale=en" alt="hard-hustler" /></p>
+✨ Data Engineer & AI Researcher passionate about building scalable, data-driven systems  
+✨ Exploring intersections of Generative AI, Cloud Engineering, and Intelligent Automation  
+✨ Experienced in ML pipelines, LLM-based applications, and real-time analytics  
+✨ Advocate of open-source collaboration and continuous experimentation  
+
+---
+
+## Experience
+
+### Graduate Research Assistant — ECJS Lab, New York University (Sep 2025 – Present)
+- Analyzed VPP datasets from CAISO, PJM & ERCOT markets, enhancing outage duration prediction by 18%.  
+- Led Prophet-based forecasting for energy gaps, improving accuracy by 12% across 3 markets.  
+- Built Tableau dashboards powering 3 policy recommendations impacting ~5 GW of distributed energy.  
+
+### Data Engineer II — Accordion, Hyderabad (May 2024 – Jun 2025)
+- Engineered churn propensity model forecasting high-risk users with 82% precision, boosting ROI by 15%.  
+- Automated Databricks ETL pipelines, cutting latency by 40% and saving 20+ hours weekly.  
+- Created Power BI dashboards detecting 200+ anomalies monthly, accelerating analysis by 30%.  
+
+### Software & Data Intern — Merilytics, Hyderabad (Jan 2024 – Apr 2024)
+- Built Flask REST APIs serving 5K+ daily investor reports with 40% lower latency.  
+- Migrated APIs to OAuth2, strengthening backend security by 60%.  
+- Automated CDM pipelines on Azure DevOps, cutting manual deployment errors by 70%.  
+
+### Machine Learning Research Intern — Spartificial Innovations, Bangalore (May 2023 – Aug 2023)
+- Deployed ML models for real-time traffic congestion prediction on AWS EC2 & Docker.  
+- Implemented voxel-based object detection (PointPillars, CenterPoint), boosting accuracy by 18%.  
+- Validated multi-UAV systems with 92% obstacle avoidance success rate.  
+
+### Undergraduate Research Assistant — ISRO-funded Rolta Incubation Lab (Jan 2022 – Mar 2023)
+- Applied K-Means clustering and cooperative game theory to design multi-UAV coordination pipelines,  
+  improving coverage efficiency by 24% and reducing gaps by 2%.  
+
+---
+
+## Featured Projects
+
+- **[SoftCLIP – Contrastive Text Encoder for Robust Semantic Alignment](https://github.com/Hard-Hustler/SoftCLIP-for-Text)**  
+  Text-only adaptation of CLIP with soft similarity targets, achieving +12% lift in semantic retrieval accuracy.  
+
+- **[Adaptive Lane Width Optimization using RL](https://github.com/Hard-Hustler/Deep-RL-Traffic-Congestion-Detection)**  
+  Reinforcement learning agent optimizing lane widths via LSTM-based traffic models, reducing congestion by 20%.  
+
+- **[Smart Staffing Assistant – GenAI Talent Matcher](https://github.com/Hard-Hustler/Smart-Staffing-Assistant)**  
+  Multi-agent LangChain + FAISS system automating résumé–JD matching with 87% accuracy.  
+
+---
+
+## Technical Skills
+
+### Languages
+C/C++ · Python · SQL · JavaScript · TypeScript · HTML · LaTeX  
+
+### Frameworks
+Flask · Django · D3.js · Apache Spark · TensorFlow · OpenCV · LangChain · Hugging Face · Scikit-learn  
+
+### Tools
+Databricks · Azure DevOps · Snowflake · Pigment · Power BI · Tableau · Git · AWS (EC2, S3, Lambda) · JIRA  
+
+### Analytics & Cloud
+Data Warehousing · ETL · KPI Dashboarding · Big Data · Load Balancing · A/B Testing · Sentiment Analysis  
+
+---
+
+## Honors & Achievements
+
+🏆 Google HashCode Finalist  
+🏆 Accordion GenAI Hackathon Winner  
+🏆 J.P. Morgan CFG Hackathon Runner-up  
+📜 Microsoft PL-300 Certified  
+
+---
+
+## GitHub Analytics
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Hard-Hustler&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Hustler&layout=compact)
+
+---
+
+## Connect with Me
+
+- 🌐 Portfolio: [hardik-amarwani-portfolio.lovable.app](https://hardik-amarwani-portfolio.lovable.app/)  
+- 💼 LinkedIn: [linkedin.com/in/hardikamarwani](https://www.linkedin.com/in/hardikamarwani)  
+- 🧠 GitHub: [github.com/Hard-Hustler](https://github.com/Hard-Hustler)  
+- ✉️ Email: ha3290@nyu.edu  
+
+---
+
