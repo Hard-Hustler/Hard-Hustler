@@ -12,8 +12,8 @@
 
 - 📍 Based in New York City, NY  
 - ✉️ Reach me at: ha3290@nyu.edu  
-- 🎓 M.S. in Computer Engineering, New York University (2025–2027)  
-- 🎓 B.Tech. in Electrical Engineering, Maulana Azad National Institute of Technology (CGPA: 8.18/10)
+- 🎓 M.S. in Computer Engineering, New York University (2025-2027)  
+- 🎓 B.Tech. in Electrical Engineering, Maulana Azad National Institute of Technology (2020-2024
 
 ---
 
@@ -63,7 +63,7 @@
   Reinforcement learning agent optimizing lane widths via LSTM-based traffic models, reducing congestion by 20%.  
 
 - **[Smart Staffing Assistant – GenAI Talent Matcher](https://github.com/Hard-Hustler/Smart-Staffing-Assistant)**  
-  Multi-agent LangChain + FAISS system automating résumé–JD matching with 87% accuracy.  
+  A multi-agent LangChain + FAISS system automates résumé–JD matching with 87% accuracy.  
 
 ---
 
