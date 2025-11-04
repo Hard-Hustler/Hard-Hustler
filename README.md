@@ -85,58 +85,35 @@
 - 🥈 **Accordion GenAI Hackathon Winner**  
 - 🥉 **J.P. Morgan CFG Hackathon Runner-up**  
 - 🎓 **Microsoft PL-300 Certified (Power BI Data Analyst)**  
+- 50+ Open-Source Contributions  
 
 ---
 
-## 🧩 GitHub Analytics
-
+## GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hard-Hustler&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hard-Hustler&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hard-Hustler&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hard-Hustler&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Hustler&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-Hustler&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
+## Connect with Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hard-Hustler/Hard-Hustler/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <a href="mailto:ha3290@nyu.edu">
+    <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hardikamarwani">
+    <img src="https://img.shields.io/badge/LinkedIn-Hardik%20Amarwani-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://hardik-amarwani-portfolio.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=flat-square&logo=react" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Hard-Hustler">
+    <img src="https://img.shields.io/badge/GitHub-Hard-Hustler-black?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
-> **To enable this animation:**  
-> 1. Create a workflow file at `.github/workflows/snake.yml`  
-> 2. Paste the following code:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule: # Runs every 24 hours
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Hard-Hustler
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generated contribution snake"
-          add: "dist/github-contribution-grid-snake.svg"
-Commit and push — within a few minutes, the animated snake will appear eating your commits 🐍
-
-🌐 Connect with Me
-<p align="center"> <a href="mailto:ha3290@nyu.edu"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail" /></a> <a href="https://www.linkedin.com/in/hardikamarwani"><img src="https://img.shields.io/badge/LinkedIn-Hardik%20Amarwani-blue?style=for-the-badge&logo=linkedin" /></a> <a href="https://hardik-amarwani-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=react" /></a> <a href="https://github.com/Hard-Hustler"><img src="https://img.shields.io/badge/GitHub-Hard--Hustler-black?style=for-the-badge&logo=github" /></a> </p>
-<p align="center"> <i>“Turning data into decisions — and ideas into intelligence.”</i><br> 🌟 Last Updated: Nov 2025 </p> ```
-
+---
